@@ -21,7 +21,7 @@
 | [Ecommerce-Website](https://ecommerce-backend-6pqj.onrender.com/) | Ecommerce Website |
 | [PizzaHub](https://another-food-website.vercel.app/) | Food Website |
 | [Mi-Clone-Store](https://mi-store-clone-eta.vercel.app/) | Mi clone website|
-| [Todo-App](https://grub-todo-i9ei.onrender.com/login)  | A MERN app to schedule Task|
+| [Todo-App](https://grub-todo-i9ei.onrender.com) | A MERN app to schedule Task|
 | [Weather App](https://gaurav7477.github.io/WeatherInformation/)  | Giving Information about weather of different cities|
 | [Restaurant website](https://gaurav7477.github.io/Restaurant_Website/)  | Responsive Design using HTML, CSS |
 | [TravelTheWorld_Website](https://gaurav7477.github.io/TravelTheWorld_Website/)  | Responsive Design using HTML, CSS  
